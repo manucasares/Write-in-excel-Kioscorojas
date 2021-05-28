@@ -1,0 +1,17 @@
+{
+  "name": "ayuda-ottu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "pdf-parse": "^1.1.1",
+    "xlsx": "^0.17.0"
+  }
+}
